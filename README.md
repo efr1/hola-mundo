@@ -4,6 +4,10 @@ Hola mundo : )
 * segundo
 * tercero
 
+***
+___
+---
+
 *emphasis*
 
 **strong emphasis**
